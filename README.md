@@ -299,4 +299,4 @@ For issues, questions, or feature requests, please open an issue on the reposito
 **BlindNav+** - Empowering independence through intelligent navigation and assistance.
 
 *Version: 1.0*  
-*Last Updated: 2024*
+*Last Updated: 2026*
